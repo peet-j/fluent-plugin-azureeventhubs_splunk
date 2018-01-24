@@ -1,6 +1,7 @@
 # Fluent::Plugin::AzureeventhubsSplunk
 
 Azure Event Hubs buffered output plugin for Fluentd in Splunk format.
+Forked from https://github.com/htgc/fluent-plugin-azureeventhubs
 
 ## Installation
 
